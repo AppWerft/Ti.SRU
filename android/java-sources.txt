@@ -1,5 +1,4 @@
 "/Users/fuerst/Documents/MLearning/Ti.SRU/android/src/de/appwerft/sru/EndpointProxy.java"
-"/Users/fuerst/Documents/MLearning/Ti.SRU/android/src/de/appwerft/sru/KrollHelper.java"
 "/Users/fuerst/Documents/MLearning/Ti.SRU/android/src/de/appwerft/sru/SruModule.java"
 "/Users/fuerst/Documents/MLearning/Ti.SRU/android/build/generated/java/de/appwerft/sru/SruBootstrap.java"
 "/Users/fuerst/Documents/MLearning/Ti.SRU/android/build/generated/r/android/support/compat/R.java"
